@@ -1,2 +1,4 @@
 # hello-world
-cool
+Hello everyone!
+I'm hxlsg.
+I'm cool.
